@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Jared! <br/><a href="https://github.com/jaredsrobertson">Tech Professional</a> and <a href="https://www.linkedin.com/in/jaredrobertsontech/">Customer Service Expert</a>
 
-<!--
-**jaredsrobertson/jaredsrobertson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Music Search and Player (front-end)</b>
+  - Bootstrap CSS, JavaScript, HTML
+  - [SongSurf.JSRobertson.tech](https://songsurf.jsrobertson.tech/)
+  - [Github Project](https://github.com/jaredsrobertson/song_surf_front)
+- <b>Music Search and Player (back-end)</b>
+  - Python, Flask, REST API, Spotify API (Spotipy), YouTube API (yt_dlp)
+  - [Github Project](https://github.com/jaredsrobertson/surf_song)
+- <b>Discord Bot</b>
+  - Python, Web Scraping (Selenium), Spotify API (Spotipy), YouTube API (Pytube)
+  - [Github Project](https://github.com/jaredsrobertson/surf_song)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Jared Robertson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/jaredrobertsontech
